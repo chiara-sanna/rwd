@@ -1,0 +1,10 @@
+img {
+    width: 100%;
+}
+body {
+    margin-top: 80px;
+}
+.headline {
+	text-align: justify;
+	position: relative;
+}
